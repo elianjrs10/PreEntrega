@@ -1,0 +1,440 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+}
+
+li{
+    display: inline-block;
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    margin-left: 190px;
+    margin-top: 50px;
+
+}
+
+.logo{
+    position: fixed;
+}
+
+.carrito{
+    position: fixed;
+    margin-left: 1730px;
+    margin-top: 40px;
+    width: 80px;
+}
+.seccion {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    padding-left: 50px;
+}
+
+.fotoinicio {
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+h2{
+display: inline-block;
+margin-left: 340px;
+margin-top: 70px;
+color: white;
+font-family: "Montserrat", sans-serif;
+}
+
+.tarjeta{
+    display: inline-block;
+    position: fixed;
+    margin-top: 96px;
+    margin-left: -210px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+.compra{
+    display: inline-block;
+    position: fixed;
+    margin-top: 96px;
+    margin-left: -240px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.efectivo{
+    display: inline-block;
+    position: fixed;
+    margin-top: 96px;
+    margin-left: -198px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+h3{
+    color: #ffffff6e;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 135px;
+    margin-left: 770px;
+    font-weight:unset;
+}
+
+.tarjetas{
+    margin-left: 750px;
+}
+.seguipedido{
+    color: #fafafaea;
+    padding: 10px;
+    margin-left: 1100px;
+    margin-top: 220px;
+    font-family: "Afacad Flux", sans-serif;
+    text-decoration: underline;
+
+}
+.textopedido{
+    color: #fafafaea;
+    text-align: justify;
+    padding: 10px;
+    margin-left: 750px;
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 35px;
+    margin-right: 200px;
+    margin-top: px;
+
+}
+.fotopedido{
+    width: 500px;
+    position: fixed;
+    margin-left: 200px;
+    margin-top:-160px;
+}
+.enlacepedido{
+    text-decoration: none;
+    color: #af22af
+}
+.instagram{
+    width: 50px;
+    margin-top: 520px;
+    position: fixed;
+    margin-left: 370px;
+}
+.whatsapp{
+    width: 50px;
+    display: inline-block;
+    position: fixed;
+    margin-top: 290px;
+    margin-left: 370px;
+}
+.ubicacion{
+    width: 90px;
+    display: inline-block;
+    position: fixed;
+    margin-top: 415px;
+    margin-left: 350px;
+}
+.correo{
+    width: 90px;
+    display: inline-block;
+    position: fixed;
+    margin-top: 340px;
+    margin-left: 350px;
+}
+.facebook{
+    width: 50px;
+    position: fixed;
+    margin-top: 600px;
+    margin-left: 370px;
+}
+.texto-whatsapp{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    margin-top: 300px;
+    margin-left: 430px;
+}
+.texto-correo{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    margin-top: 370px;
+    margin-left: 430px;
+
+}
+.texto-ubicacion{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    margin-top: 445px;
+    margin-left: 430px;
+}
+.texto-instagram{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    margin-top: 530px;
+    margin-left: 440px;
+}
+.texto-facebook{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 200px;
+    position: fixed;
+    margin-top: 410px;
+    margin-left: 240px;
+
+}
+.tarjetas-contacto{
+    position: fixed;
+    margin-top: 820px;
+    margin-left: 750px;
+}
+.texto-contacto{
+    position: fixed;
+    margin-top: 790px;
+}
+.titulo-contacto{
+    color: rgb(223, 11, 223);
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 180px;
+    text-align: center;
+    position:fixed;
+    margin-left: 700px;
+}
+.titulo-nosotros{
+    color: rgb(223, 11, 223);
+    margin-left: 800px;
+    font-family: "Afacad Flux", sans-serif;
+    margin-top: 110px;
+
+}
+.texto-nosotros{
+    color: white;
+    font-family: "Afacad Flux", sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 900px;
+    margin-top: 100px;
+    margin-right: 400px;
+}
+.videokibua{
+    width: 310px;
+    position: fixed;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.consultas{
+    border: solid 1px white;
+    padding: 10px;
+    width: 310px;
+    margin: 7px;
+}
+form{
+    width: 300px;
+    margin-left: 1150px;
+    margin-top: 270px;
+    color: #fcdffc;
+    position: fixed;
+    padding: 15px;
+    font-size: 18px;
+}
+#mensaje2{
+    width: 350px;
+    height: 90px;
+}
+.tituloproductos{
+    color: rgb(223, 11, 223);
+    font-family: "Afacad Flux", sans-serif; 
+    margin-top: 30px;
+    position: fixed;
+    margin-left: 800px;
+}
+.buzo1{
+    position: fixed;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 5px;
+}
+.rockstar{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 190px;
+    margin-top: 390px;
+    position: fixed;
+}
+.preciorockstar{
+    color: rgb(248, 61, 248);
+    margin-left: 219px;
+    margin-top: 420px;
+    position: fixed;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buzo2{
+    position: fixed;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 450px;
+    border-radius: 5px;
+}
+.kieeh{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 190px;
+    margin-top: 775px;
+    position: fixed;
+}
+.preciokieeh{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 219px;
+    margin-top: 805px;
+    position: fixed;
+}
+.remera1{
+    position: fixed;
+    width: 300px;
+    height: 290px;
+    margin-top: 90px;
+    margin-left: 550px;
+    border-radius: 5px
+}
+.textokibua{
+    position: fixed;
+    margin-top: 823px;
+}
+.tarjetas-productos{
+    margin-left: 750px;
+    margin-top: 840px;
+}
+.masterpiece{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 619px;
+    margin-top: 389px;
+    position: fixed;
+}
+.preciomasterpiece{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 670px;
+    margin-top: 419px;
+    position: fixed;
+}
+.pantalon1{
+    position: fixed;
+    width: 300px;
+    height: 290px;
+    margin-top: 90px;
+    margin-left: 990px;
+    border-radius: 5px;
+}
+.active{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 1100px;
+    margin-top: 389px;
+    position: fixed;
+}
+.precioactive{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1112px;
+    margin-top: 419px;
+    position: fixed;
+}
+.remera2{
+    position: fixed;
+    width: 300px;
+    margin-left: 550px;
+    margin-top: 450px;
+    border-radius: 5px;
+    height: 310px;
+}
+.freres{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 660px;
+    margin-top: 775px;
+    position: fixed;
+}
+.preciofreres{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 673px;
+    margin-top: 805px;
+    position: fixed;
+}
+.pantalon2{
+    position: fixed;
+    width: 300px;
+    margin-left: 990px;
+    margin-top: 450px;
+    border-radius: 5px;
+    height: 310px;  
+}
+.vintage{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 1100px;
+    margin-top: 770px;
+    position: fixed;
+}
+.preciovintage{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1115px;
+    margin-top: 797px;
+    position: fixed;
+}
+.zapatillas1{
+    position: fixed;
+    width: 300px;
+    height: 290px;
+    margin-top: 90px;
+    margin-left: 1450px;
+    border-radius: 5px;
+}
+.denver{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 1560px;
+    margin-top: 389px;
+    position: fixed;
+}
+.preciodenver{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1582px;
+    margin-top: 419px;
+    position: fixed;
+}
+.zapatillas2{
+    position: fixed;
+    width: 300px;
+    margin-left: 1450px;
+    margin-top: 450px;  
+    border-radius: 5px;
+    height: 310px;      
+}
+.peggy{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    margin-left: 1560px;
+    margin-top: 770px;
+    position: fixed;
+}
+.preciopeggy{
+    color: rgb(248, 61, 248);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1580px;
+    margin-top: 797px;
+    position: fixed;
+}
+
